@@ -1,4 +1,4 @@
-
+import random
 
 # Creación de las variables para los puntajes
 river_puntaje = 0
