@@ -30,7 +30,7 @@ print("Familia de Tyler, The Creator:")
 print(descripcion_familia)
 
 # Imprimir sus aficiones
-#Axl_Robledo
-#Musica
+#AXL_ROBLEDO
+#MUSICA
 #IEM_ESCUELA_NORMAL_PASTO
-#11-1
+#11_1
